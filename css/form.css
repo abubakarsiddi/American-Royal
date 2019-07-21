@@ -1,0 +1,24 @@
+.personal-info label{
+    float:left;
+    width: 100px;
+margin-right: 40px;
+font-weight: bold;
+}
+.personal-info input{
+
+    margin-left: 30px;
+}
+.personal-info{
+    line-height: 25px;
+}
+fieldset{
+    width:700px;
+    background-color:#c0d0f6;
+    margin: 50px auto ;
+}
+textarea{
+    margin-left: 0px ;
+}
+.set{
+    margin-left:150px;
+}
